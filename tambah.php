@@ -1,4 +1,4 @@
 <?php
 	echo "Ini adalah halaman untuk menambah data";
-	echo "Ada penambahan baris ini loh pada revisi kedua"
+	echo "Ada penambahan baris ini loh pada revisi kedua";
 ?>
